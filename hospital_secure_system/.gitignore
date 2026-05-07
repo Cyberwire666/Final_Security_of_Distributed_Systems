@@ -1,0 +1,7 @@
+.env
+uploads/
+nginx/certs/*.crt
+nginx/certs/*.key
+__pycache__/
+*.pyc
+.DS_Store
